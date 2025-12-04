@@ -52,6 +52,26 @@ header nav ul li a:hover {
     margin-bottom: 10px;
 }
 
+#hero p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+
+#hero .btn {
+    background-color: #5a4638;
+    color: white;
+    padding: 12px 24px;
+    font-size: 1.2rem;
+    text-decoration: none;
+    border-radius: 8px;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+#hero .btn:hover {
+    background-color: #7f5e42;
+}
+
 /* Content Sections */
 .content {
     background: #ffffff;
